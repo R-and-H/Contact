@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Contact/static/css/main.c53ea019.css",
-    "main.js": "/Contact/static/js/main.7f0e8afe.js",
+    "main.css": "/Contact/static/css/main.458ca6a7.css",
+    "main.js": "/Contact/static/js/main.a22dfe0d.js",
     "static/media/video-bg.jpg": "/Contact/static/media/video-bg.9175b7a55537b6f378d4.jpg",
-    "static/media/user1.jpg": "/Contact/static/media/user1.627475c20707b4ee019d.jpg",
+    "static/media/pRonny.png": "/Contact/static/media/pRonny.b9393524fd2c7c4e7d4d.png",
+    "static/media/pHainer.png": "/Contact/static/media/pHainer.fee44864b78ac31b66ad.png",
+    "static/media/aaaaa.jpg": "/Contact/static/media/aaaaa.9d59ea95b02378d7abdf.jpg",
     "static/media/phoneScreen.png": "/Contact/static/media/phoneScreen.e3fba88011963c868afe.png",
-    "static/media/user2.jpg": "/Contact/static/media/user2.36b3d8d3bb35e2a45f40.jpg",
-    "static/media/user3.jpg": "/Contact/static/media/user3.37e2e2ee2447e3b58756.jpg",
     "static/media/playstore.png": "/Contact/static/media/playstore.4a3c2c1b0e951a10d3f0.png",
     "static/media/appstore.png": "/Contact/static/media/appstore.8d5376b8e951ba42dbaf.png",
     "index.html": "/Contact/index.html",
     "static/media/applight-wave.svg": "/Contact/static/media/applight-wave.f1e3be5211f5b5d1ae9bbaefb98d7a5f.svg",
-    "main.c53ea019.css.map": "/Contact/static/css/main.c53ea019.css.map",
-    "main.7f0e8afe.js.map": "/Contact/static/js/main.7f0e8afe.js.map"
+    "main.458ca6a7.css.map": "/Contact/static/css/main.458ca6a7.css.map",
+    "main.a22dfe0d.js.map": "/Contact/static/js/main.a22dfe0d.js.map"
   },
   "entrypoints": [
-    "static/css/main.c53ea019.css",
-    "static/js/main.7f0e8afe.js"
+    "static/css/main.458ca6a7.css",
+    "static/js/main.a22dfe0d.js"
   ]
 }
